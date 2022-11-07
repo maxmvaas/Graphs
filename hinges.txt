@@ -1,0 +1,7 @@
+UNWEIGHTED, DIRECTED
+A: [A]
+B: [A, C, B]
+C: [E, A]
+D: [C, B, A]
+E:
+F: [B, F]
